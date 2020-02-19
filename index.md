@@ -30,33 +30,17 @@
       <p><b>网络安全技术</b></p>
       <p><b>网络工程技术</b></p>     
     </td>
-    <td width="22%">
+    <td width="30%">
       <h1>兴趣爱好</h1>
-      <p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp跑步</b></p>
-      <p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp篮球</b></p>
-      <p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp健身</b></p>     
+      <p><b>跑步</b></p>
+      <p><b>篮球</b></p>
+      <p><b>健身</b></p>     
     </td>
-    <td width="25%">
+    <td width="30%">
       <h1>研究方向</h1>
       <p><b>网络安全</b></p>
-      <p><b>&nbsp&nbsp 编程</b></p>
-      <p><b>&nbsp&nbsp 考研</b></p>     
+      <p><b>编程</b></p>
+      <p><b>考研</b></p>     
     </td>
   </tr>
 </table>
-
-### 荣誉奖励
-#### ●二等奖学金
-#### ●万里之星
-#### ●优秀学生干部
-
-### 兴趣爱好
-#### ●篮球、跑步、羽毛球等
-
-### 目前所学
-#### ●网络编程技术
-#### ●网络安全技术
-#### ●网络工程技术
-
-### 研究方向
-#### ●网络安全、编程等
