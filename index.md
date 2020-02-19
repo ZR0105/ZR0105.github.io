@@ -16,6 +16,35 @@
   </tr>
 </table>
 
+<table border="0">
+  <tr>
+    <td width="30%">
+      <h1>荣誉奖励</h1>
+      <p><b>二等奖学金</b></p>
+      <p><b>万里之星</b></p>
+      <p><b>优秀学生干部</b></p>
+    </td>
+    <td width="30%">
+      <h1>目前所学</h1>
+      <p><b>网络编程技术</b></p>
+      <p><b>网络安全技术</b></p>
+      <p><b>网络工程技术</b></p>     
+    </td>
+    <td width="22%">
+      <h1>兴趣爱好</h1>
+      <p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp跑步</b></p>
+      <p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp篮球</b></p>
+      <p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp健身</b></p>     
+    </td>
+    <td width="25%">
+      <h1>研究方向</h1>
+      <p><b>网络安全</b></p>
+      <p><b>&nbsp&nbsp 编程</b></p>
+      <p><b>&nbsp&nbsp 考研</b></p>     
+    </td>
+  </tr>
+</table>
+
 ### 荣誉奖励
 #### ●二等奖学金
 #### ●万里之星
